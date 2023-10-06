@@ -25,7 +25,7 @@ function App() {
     <div
       className="container-fluid text-center bg-primary"
       style={{
-        minHeight: "100vh",
+        height: "100vh",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
